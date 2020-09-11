@@ -61,6 +61,16 @@ _PDF, video, homework assignment are all accessible w/ your MSU ID Google login.
     - Part 1: Phylogeny: Fill this [form](https://forms.gle/PB2nQXK1NYRadSKD9) out as part of the homework assignment
     - Due by Sep 17
 
+## Lecture 5
+### [slides](https://drive.google.com/file/d/1oewDvcQsNrdKQvbELSVme5UaMi7X_SK7/view?usp=sharing) | [HW](https://forms.gle/wXStT447ZSKNtJP78)
+- Species trees
+- Genome sequencing
+- Genome assembly
+- Whole genome alignment
+- Comparative genomics
+- Pangenomes
+- PATRIC
+
 # Questions?
 - [Email](mailto:janani@msu.edu)
 - MSU Microsoft Teams (direct message to: Janani Ravi)

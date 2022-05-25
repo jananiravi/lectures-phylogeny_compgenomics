@@ -1,5 +1,6 @@
 # Phylogeny and Comparative Genomics
-Supporting material for MMG 801 Lectures 3–5 on 'Phylogeny and Comparative Genomics.'
+Supporting material for MMG 801 Lectures on 'Phylogeny and Comparative Genomics.' <br>
+[PDF slides not accessible enough? Please reach out to [me](mailto:janani@msu.edu)]
 
 # Learning Objectives
 - Phylogeny & Construction of Phylogenetic Trees (species and gene)
@@ -12,8 +13,9 @@ Supporting material for MMG 801 Lectures 3–5 on 'Phylogeny and Comparative Gen
   - We will address your Qs + use these with the web-tools in class on Thursday!
 
 # Outline
-## Lectures 3 & 4
-### [slides](https://drive.google.com/file/d/1rMiWt9N85EOfqAiJ3KOGEiEine_EGDkX/view?usp=sharing) | [video](https://drive.google.com/file/d/1B4HI5IeCmG7rP9F1ATKjdUwLUigVUGnF/view?usp=sharing) | [HW](https://forms.gle/PB2nQXK1NYRadSKD9)
+## Lectures 1 & 2 | Phylogenetics
+### 2020: [slides](https://drive.google.com/file/d/1rMiWt9N85EOfqAiJ3KOGEiEine_EGDkX/view?usp=sharing) | [video](https://drive.google.com/file/d/1B4HI5IeCmG7rP9F1ATKjdUwLUigVUGnF/view?usp=sharing) | [HW](https://forms.gle/PB2nQXK1NYRadSKD9)
+### 2021: [slides](https://drive.google.com/file/d/1Y-ASEVRtDO2YJNtVkVtCj7x7CEQPM9mf/view?usp=sharing) | [HW](https://forms.gle/99Ku7k5uNVfhGALc6)
 _PDF, video, homework assignment are all accessible w/ your MSU ID Google login._
 
 - Intro to phylogeny
@@ -57,12 +59,11 @@ _PDF, video, homework assignment are all accessible w/ your MSU ID Google login.
     [Steps Used by the BLAST Algorithm. Mount DW. CSH Protoc. 2007 Jul 1;2007:pdb.ip41. doi: 10.1101/pdb.ip41.](https://www.ncbi.nlm.nih.gov/pubmed/21357114)
     - [Wiki: BLAST (biotechnology)](https://en.wikipedia.org/wiki/BLAST_(biotechnology))
     - The book, [Tangled Tree](https://www.goodreads.com/book/show/36373639-the-tangled-tree) by _David Quammen_
-  - Homework
-    - Part 1: Phylogeny: Fill this [form](https://forms.gle/PB2nQXK1NYRadSKD9) out as part of the homework assignment
-    - Due by Sep 17
 
-## Lecture 5
-### [slides](https://drive.google.com/file/d/1oewDvcQsNrdKQvbELSVme5UaMi7X_SK7/view?usp=sharing) | [HW](https://forms.gle/wXStT447ZSKNtJP78)
+
+## Lecture 3 | Comparative genomics and pangenomes
+### 2020: [slides](https://drive.google.com/file/d/1oewDvcQsNrdKQvbELSVme5UaMi7X_SK7/view?usp=sharing) | [HW](https://forms.gle/wXStT447ZSKNtJP78)
+### 2021: [slides](https://drive.google.com/file/d/1Y3Wuh7vjGoazt-IzPrVSVmb85dJqwp-2/view?usp=sharing) | [HW](https://forms.gle/1mXxQXhab2wwqv4S7)
 - Species trees
 - Genome sequencing
 - Genome assembly
@@ -74,4 +75,5 @@ _PDF, video, homework assignment are all accessible w/ your MSU ID Google login.
 # Questions?
 - [Email](mailto:janani@msu.edu)
 - MSU Microsoft Teams (direct message to: Janani Ravi)
-- [Office hours](https://msu.zoom.us/j/92001861449) (202009) at 4p on Friday (Sep 11) and Tuesday (Sep 16)
+- [2020 Office hours](https://msu.zoom.us/j/92001861449) (202009) at 4p on Friday (Sep 11) and Tuesday (Sep 16)
+- 2021 Office hours: Friday 1–2p; Monday 10–11a
